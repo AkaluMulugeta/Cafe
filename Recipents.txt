@@ -1,0 +1,9 @@
+
+
+git config --global user.email "lamimulugeta@gmail.com"
+
+git config --global user.name "HumnesaGudisa"
+cd Desktop 
+ git-101-se-act
+ git checkout -b Humnesa 
+ notepad hello.txt
