@@ -2,8 +2,13 @@
 
 git config --global user.email "lamimulugeta@gmail.com"
 
-git config --global user.name "HumnesaGudisa"
+git config --global user.name "Akalu Mulugeta"
 cd Desktop 
  git-101-se-act
- git checkout -b Humnesa 
+ git checkout -b Akalu 
  notepad hello.txt
+git status
+git add
+git status
+git commit -m "Akalu"
+git push --set-upstream origin Akalu
